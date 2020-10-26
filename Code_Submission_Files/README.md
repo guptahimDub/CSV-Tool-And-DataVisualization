@@ -3,7 +3,7 @@
 # Characteristics:
 1. Import: To import the CSV file.
 
-    a. Choose File -> To select the CSV from local storage.
+    a. ###Choose File -> To select the CSV from local storage.
 
     b. Upload -> Represent the content of CSV in HTML table on web application.
 
