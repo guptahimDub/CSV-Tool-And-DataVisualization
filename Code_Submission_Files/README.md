@@ -4,8 +4,11 @@
 1. Import: To import the CSV file.
 
 a. Choose File -> To select the CSV from local storage.
+
 b. Upload -> Represent the content of CSV in HTML table on web application.
+
 c. Overwrite CSV -> To overwrite with a new CSV file when the server is running.
+
 d. Add Columns: To append new columns in the HTML table.
 
 2. Export: Save the content displayed on the HTML table on the web application.
