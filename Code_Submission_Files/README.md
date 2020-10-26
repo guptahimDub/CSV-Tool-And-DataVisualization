@@ -1,7 +1,8 @@
 # Tool to upload and modify the CSV data and find insights about data.
 
 # Characteristics:
-1. Import: To import the CSV file
+1. Import: To import the CSV file.
+
 Choose File -> To select the CSV from local storage.
 Upload -> Represent the content of CSV in HTML table on web application.
 Overwrite CSV -> To overwrite with a new CSV file when the server is running.
