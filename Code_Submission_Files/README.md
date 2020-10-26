@@ -1,8 +1,8 @@
-# Tool to upload and modify the CSV data and find insights about data.
+# Tool to upload and modify the CSV data and hence find insights about data.
 
 # Characteristics:
 ## 1. Import: 
-      To import the CSV file.
+     To import the CSV file.
 
     a. Choose File -> To select the CSV from local storage.
 
