@@ -1,6 +1,6 @@
-#Tool to upload and modify the CSV data and find insights about data.
+# Tool to upload and modify the CSV data and find insights about data.
 
-Characteristics:
+# Characteristics:
 1. Import: To import the CSV file
 Choose File -> To select the CSV from local storage.
 Upload -> Represent the content of CSV in HTML table on web application.
@@ -16,4 +16,5 @@ Add Columns: To append new columns in the HTML table.
 # How to Run:
 =>python main.py
 
-Flask server => http://127.0.0.1:5000/
+# Flask server 
+=> http://127.0.0.1:5000/
