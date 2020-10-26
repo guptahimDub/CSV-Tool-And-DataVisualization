@@ -19,8 +19,9 @@
 ## 4. Sort: 
       Based on the column name provided, sort the data on the HTML table in ascending order.
 ## 6. Click Here for Data Visualization and Data Insights: 
-      To provide insights about the data present in the CSV file. It consists of a correlation matrix between the variables, bar plot, missing values information, relevant     
-      features for designing a model, etc.
+      To provide insights about the data present in the CSV file. It consists of a correlation matrix between the variables, 
+      bar plot, missing values information, relevant features for designing a model, etc.
+      Note: The visualization and data insight will be presented in the other tab.
 
 
 # How to Run:
@@ -29,4 +30,14 @@
 # Flask server 
 => http://127.0.0.1:5000/
 
+
+# Image of Web Application
+![Image6](https://user-images.githubusercontent.com/56262858/97236583-4bb07980-17dd-11eb-939f-ae3b58710329.png)
+
+# Data Insights Images
+![Image3](https://user-images.githubusercontent.com/56262858/97236414-01c79380-17dd-11eb-9b90-e1de5b90cfeb.png)
+
+![Image4](https://user-images.githubusercontent.com/56262858/97236436-0e4bec00-17dd-11eb-9fb4-97be92100620.png)
+
+![Image5](https://user-images.githubusercontent.com/56262858/97236463-13a93680-17dd-11eb-8215-2dfaaef9a64c.png)
 
